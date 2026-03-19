@@ -65,7 +65,7 @@ AI Insight Generation
 - Streamlit
 
 **AI / LLM Integration**
-- Groq / OpenAI API
+- Ollama 
 
 ---
 
